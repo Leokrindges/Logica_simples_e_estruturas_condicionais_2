@@ -1,0 +1,1 @@
+<p>Ativiade pratica da Growdev com o objetivo de fixar as estruturas condicionais, operadores de comparação e operadores aritméticos.</p>
